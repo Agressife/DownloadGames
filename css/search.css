@@ -1,0 +1,25 @@
+#searcher
+{
+    position:fixed;
+    top:23%;
+    left:22.5%;
+    z-index: 1;
+}
+#searchTexter
+{
+    width:282.5%;
+    height:200%;
+    font-size:2vh;
+    border: solid 5px;
+    border-color:rgb(59, 19, 97);
+}
+#searchSub
+{
+    position:relative;
+    left:282.5%;
+    width:31%;
+    font-size:2vh;
+    bottom:1.8em;
+    border:solid 5px;
+    border-color:rgb(59, 19, 97);
+}

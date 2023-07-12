@@ -1,0 +1,179 @@
+#mainImage
+{
+    width:100%;
+    height:100%;
+    position:fixed;
+    left:0%;
+    top:0%;
+
+}
+#topMenu
+{
+    position:fixed;
+    top:15%;
+    left:22.5%;
+    background-color:#40238f;
+    border: 5px solid #1d0f44;
+    height:7%;
+    z-index:1;
+    width:55%;
+}
+#topMenu a
+{
+    font-size:2vh;
+    text-decoration: none;
+    color:rgb(228, 223, 247);
+    margin-left:2%;
+}
+.battery
+{
+    width:2em;
+    height:2em;
+    margin-right:0.2em;
+    position:relative;
+    top:0.8em;
+}
+.content
+{
+    position:absolute;
+    top:26.5%;
+    width:55.5%;
+    left:22.5%;
+    background-color: rgba(16, 12, 19, 0.753);
+}
+.gameShower
+{
+    position:relative;
+    top:1em;
+    white-space: pre-line;
+    color:rgb(255, 255, 255);
+    margin-bottom:-15%;
+}
+.gameImager
+{
+    position:relative;
+    width:40%;
+    height:30%;
+}
+.formShower
+{
+    position:relative;
+}
+.gameSub
+{
+    position:relative;
+    left:40%;
+    background-color: #1d0f4400;
+    bottom:4.45em;
+    font-size:5vh;
+    color:aliceblue;
+    border:none;
+    cursor: pointer;
+}
+.descShower
+{
+    position:relative;
+    left:41%;
+    width:59%;
+    height:9em;
+    bottom:14.5em;
+    overflow: hidden;
+    text-overflow: hidden;
+    max-lines:5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#crutch
+{
+    position:fixed;
+    left:22.5%;
+    width:56%;
+    top:0%;
+    height:15%;
+    z-index: 1;
+    background-image: url(/images/crutch.png);
+}
+#logForm
+{
+    position:relative;
+    left:0;
+    top:25%;
+    color:aliceblue;
+    font-size:4vh;
+    text-align: center;
+}
+#logForm input
+{
+    width:35%;
+    font-size:2vh;
+}
+#boyHead
+{
+    position:relative;
+    width:15%;
+
+}
+#logSub
+{
+    width:30%;
+    font-size:3vh;
+    border:solid 2px purple;
+    background-color:#40238f;
+    color:aliceblue;
+    font-family:sans-serif;
+}
+#logReg
+{
+    color:rgb(110, 110, 255);
+    position:relative;
+    bottom:10px;
+}
+.errorer
+{
+    position:relative;
+    font-size:3vh;
+    color:aliceblue;
+}
+#profile
+{
+    font-size:3vh;
+    text-align: center;
+    color:aliceblue;
+    width:100%;
+    height:40vh;
+}
+#profile a
+{
+    text-decoration-line: underline;
+    font-size:3.5vh;
+}
+#fullGame
+{
+    text-align: center;
+    z-index: 1;
+    width:100%;
+    color:aliceblue;
+    font-size:2vh;
+}
+#fullGame a
+{
+    font-size:4vh;
+    color:aliceblue;
+}
+#fullGame p
+{
+    font-size:5vh;
+}
+#fullgameImage
+{
+    width:70%;
+    height:30%;
+}
+.torrentButton
+{
+    width:15%;
+    height:5%;
+    border:solid 5px;
+    border-color:#1d0f44;
+    background-color: #5839ad;
+    text-decoration: none;
+}
